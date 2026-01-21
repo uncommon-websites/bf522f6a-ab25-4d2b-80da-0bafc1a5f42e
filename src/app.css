@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 @theme {
-	/* Colors */
+	/* Colors - Deep Genomic Emerald & Clinical Graph Neutral */
 	--color-gray-50: oklch(0.985 0 0);
 	--color-gray-100: oklch(0.97 0 0);
 	--color-gray-200: oklch(0.922 0 0);

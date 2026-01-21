@@ -150,9 +150,8 @@
         <div class="max-w-[1400px] mx-auto px-6 h-16 flex items-center justify-between">
             <div class="flex items-center gap-2">
                 <!-- Logo Mark -->
-                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="text-primary-600">
-                    <path d="M12 2C6.47 2 2 6.47 2 12C2 17.53 6.47 22 12 22C17.53 22 22 17.53 22 12C22 6.47 17.53 2 12 2ZM15.63 15.63L14.21 17.05L12 14.84L9.79 17.05L8.37 15.63L10.58 13.42L8.37 11.21L9.79 9.79L12 12L14.21 9.79L15.63 11.21L13.42 13.42L15.63 15.63Z" fill="currentColor"/>
-                    <path d="M12 4C7.58 4 4 7.58 4 12C4 16.42 7.58 20 12 20C16.42 20 20 16.42 20 12C20 7.58 16.42 4 12 4ZM12 18C8.69 18 6 15.31 6 12C6 8.69 8.69 6 12 6C15.31 6 18 8.69 18 12C18 15.31 15.31 18 12 18Z" fill="currentColor" opacity="0.3"/>
+                <svg width="28" height="28" viewBox="0 0 88 87" fill="none" xmlns="http://www.w3.org/2000/svg" class="text-primary-600">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M19.6908 0C9.01325 0 0.357422 8.65582 0.357422 19.3333V67.6667C0.357422 78.3442 9.01325 87 19.6908 87H68.0241C78.7017 87 87.3574 78.3442 87.3574 67.6667V19.3333C87.3574 8.65582 78.7017 0 68.0241 0H19.6908ZM19.6908 12.0833C15.6867 12.0833 12.4408 15.3292 12.4408 19.3333V67.6667C12.4408 71.6708 15.6867 74.9167 19.6908 74.9167H36.6074C40.6116 74.9167 43.8574 71.6708 43.8574 67.6667V19.3333C43.8574 15.3292 40.6116 12.0833 36.6074 12.0833H19.6908Z" fill="currentColor"/>
                 </svg>
                 <span class="font-medium text-lg tracking-tight">Helix Technologies</span>
             </div>
@@ -468,8 +467,8 @@
         <div class="max-w-[1400px] mx-auto grid grid-cols-1 md:grid-cols-4 gap-12">
             <div class="col-span-1 md:col-span-1">
                 <div class="flex items-center gap-2 mb-8">
-                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="text-primary-600">
-                        <path d="M12 2C6.47 2 2 6.47 2 12C2 17.53 6.47 22 12 22C17.53 22 22 17.53 22 12C22 6.47 17.53 2 12 2ZM15.63 15.63L14.21 17.05L12 14.84L9.79 17.05L8.37 15.63L10.58 13.42L8.37 11.21L9.79 9.79L12 12L14.21 9.79L15.63 11.21L13.42 13.42L15.63 15.63Z" fill="currentColor"/>
+                    <svg width="24" height="24" viewBox="0 0 88 87" fill="none" xmlns="http://www.w3.org/2000/svg" class="text-primary-600">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M19.6908 0C9.01325 0 0.357422 8.65582 0.357422 19.3333V67.6667C0.357422 78.3442 9.01325 87 19.6908 87H68.0241C78.7017 87 87.3574 78.3442 87.3574 67.6667V19.3333C87.3574 8.65582 78.7017 0 68.0241 0H19.6908ZM19.6908 12.0833C15.6867 12.0833 12.4408 15.3292 12.4408 19.3333V67.6667C12.4408 71.6708 15.6867 74.9167 19.6908 74.9167H36.6074C40.6116 74.9167 43.8574 71.6708 43.8574 67.6667V19.3333C43.8574 15.3292 40.6116 12.0833 36.6074 12.0833H19.6908Z" fill="currentColor"/>
                     </svg>
                     <span class="font-medium text-xl tracking-tight">Helix Technologies</span>
                 </div>
